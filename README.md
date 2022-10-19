@@ -3,3 +3,5 @@ A Universal GPU Driver Development Kit contains Modules to build Low Level Graph
 
 ## Standards and Driver
 The History of Graphics Card Drivers and Standards is long and complex we clean the dust. We are working on Platform Arch Indipendent Modular Drivers for NVIDIA, AMD, Intel. with Full *GL Support we call our GL implementation AsteriskGL as also short AGL or on text *GL
+
+This is mainly build up on the Results and Research of LLVMpipe and Gallium as also libMESA3d 
